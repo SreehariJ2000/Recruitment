@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.net Project\\Recruitment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|solutionrelative:recruitmentplatform.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.infrastructure\\migrations\\20250309034619_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|solutionrelative:recruitmentplatform.infrastructure\\migrations\\20250309034619_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EECB069-1DD2-4509-BB51-1800AC8EF753}|Recruitment\\Recruitment.csproj|d:\\asp.net project\\recruitment\\recruitment\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EECB069-1DD2-4509-BB51-1800AC8EF753}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.application\\features\\jobs\\commands\\createjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|solutionrelative:recruitmentplatform.application\\features\\jobs\\commands\\createjobhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.application\\features\\jobs\\commands\\createjobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|solutionrelative:recruitmentplatform.application\\features\\jobs\\commands\\createjobcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EECB069-1DD2-4509-BB51-1800AC8EF753}|Recruitment\\Recruitment.csproj|d:\\asp.net project\\recruitment\\recruitment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EECB069-1DD2-4509-BB51-1800AC8EF753}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.domain\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|solutionrelative:recruitmentplatform.domain\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|solutionrelative:recruitmentplatform.domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.infrastructure\\recruitmentplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CCCDD76-D148-42FD-8A2C-6AD8071A622C}|RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj|solutionrelative:recruitmentplatform.infrastructure\\recruitmentplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.domain\\recruitmentplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{607A3B4B-E6B8-480B-8DEE-91A5381739A7}|RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj|solutionrelative:recruitmentplatform.domain\\recruitmentplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|d:\\asp.net project\\recruitment\\recruitmentplatform.application\\recruitmentplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A112ACD4-5C54-49B7-97E2-0D2C9A3BAD97}|RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj|solutionrelative:recruitmentplatform.application\\recruitmentplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250309034619_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\Migrations\\20250309034619_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Infrastructure\\Migrations\\20250309034619_InitialCreate.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\Migrations\\20250309034619_InitialCreate.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Infrastructure\\Migrations\\20250309034619_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:46:22.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\Recruitment\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Recruitment\\Controllers\\JobsController.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\Recruitment\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Recruitment\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:06:06.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateJobHandler.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobHandler.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobHandler.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobHandler.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:04:55.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateJobCommand.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobCommand.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobCommand.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobCommand.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Application\\Features\\Jobs\\Commands\\CreateJobCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:04:18.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\Recruitment\\appsettings.json",
+              "RelativeDocumentMoniker": "Recruitment\\appsettings.json",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\Recruitment\\appsettings.json",
+              "RelativeToolTip": "Recruitment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T03:09:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:07:32.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\Repositories\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Domain\\Repositories\\IJobRepository.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\Repositories\\IJobRepository.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Domain\\Repositories\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:58:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Domain\\Models\\Job.cs",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\Models\\Job.cs",
+              "RelativeToolTip": "RecruitmentPlatform.Domain\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:57:38.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecruitmentPlatform.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj",
+              "RelativeToolTip": "RecruitmentPlatform.Infrastructure\\RecruitmentPlatform.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T02:50:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecruitmentPlatform.Domain.csproj",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj",
+              "RelativeToolTip": "RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T02:50:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecruitmentPlatform.Application.csproj",
+              "DocumentMoniker": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj",
+              "RelativeDocumentMoniker": "RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj",
+              "ToolTip": "D:\\Asp.net Project\\Recruitment\\RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj",
+              "RelativeToolTip": "RecruitmentPlatform.Application\\RecruitmentPlatform.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T02:21:03.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

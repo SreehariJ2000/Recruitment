@@ -1,0 +1,22 @@
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.deps.json
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfo.cs
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\refint\RecruitmentPlatform.Domain.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\ref\RecruitmentPlatform.Domain.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.deps.json
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfoInputs.cache
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.AssemblyInfo.cs
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.csproj.CoreCompileInputs.cache
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\refint\RecruitmentPlatform.Domain.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Domain\obj\Debug\net6.0\ref\RecruitmentPlatform.Domain.dll

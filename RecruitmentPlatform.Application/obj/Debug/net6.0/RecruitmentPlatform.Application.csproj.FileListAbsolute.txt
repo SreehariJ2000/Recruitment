@@ -1,0 +1,30 @@
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.deps.json
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.pdb
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.AssemblyInfo.cs
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\Recruitm.3160EC85.Up2Date
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\refint\RecruitmentPlatform.Application.dll
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.pdb
+C:\Users\hsree\source\repos\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\ref\RecruitmentPlatform.Application.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.deps.json
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Application.pdb
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Domain.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\bin\Debug\net6.0\RecruitmentPlatform.Domain.pdb
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.csproj.AssemblyReference.cache
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.AssemblyInfoInputs.cache
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.AssemblyInfo.cs
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.csproj.CoreCompileInputs.cache
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\Recruitm.3160EC85.Up2Date
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\refint\RecruitmentPlatform.Application.dll
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\RecruitmentPlatform.Application.pdb
+D:\Asp.net Project\Recruitment\RecruitmentPlatform.Application\obj\Debug\net6.0\ref\RecruitmentPlatform.Application.dll
